@@ -1,0 +1,25 @@
+public class Test {
+
+    double x = 90+6*3;
+    int for = 9;
+    int move(){
+        cat x = new Cat();
+        x.meow();
+        x.{
+              smile();
+              laugh();
+           }
+
+        mow();
+
+        Person [] persons = new Person[5];
+
+        for(int i = 0; i < 3; i++){
+
+        }
+
+        forall(index in persons){
+
+        }
+    }
+}
